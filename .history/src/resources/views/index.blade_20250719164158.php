@@ -1,0 +1,14 @@
+@extends('layouts.app')
+
+@section('css')
+<link rel="stylesheet" href="{{ asset('css/index.css') }}"/>
+@endsection
+
+@section('content')
+
+<div class="todo__content">
+  <div class="todo-template"__heading>
+
+  </div>
+  <form class="form" action="
+</div>
